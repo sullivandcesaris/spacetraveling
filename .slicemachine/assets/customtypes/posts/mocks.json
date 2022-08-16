@@ -1,0 +1,63 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Captain",
+        "spans": []
+      }
+    ],
+    "subtitle": [
+      {
+        "type": "paragraph",
+        "text": "Dolor elit id reprehenderit sit cupidatat consequat sint qui in minim sunt dolor. Aliqua et ipsum qui dolore laborum enim consequat consequat elit elit eu irure.",
+        "spans": []
+      }
+    ],
+    "author": [
+      {
+        "type": "paragraph",
+        "text": "Lorem reprehenderit anim consequat velit voluptate deserunt aute ipsum consectetur cupidatat cillum laborum excepteur sit.",
+        "spans": []
+      }
+    ],
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    "content": [
+      {
+        "heading": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate do amet reprehenderit.",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Elit id eiusmod nisi sunt fugiat veniam et commodo. Ea exercitation magna eu commodo culpa voluptate consectetur adipisicing nisi.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
